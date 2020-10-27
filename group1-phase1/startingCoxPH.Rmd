@@ -1,0 +1,174 @@
+---
+title: "data_challenge"
+output: html_document
+---
+
+```{r}
+# FD001 analysis 
+library(survival)
+plane1 = read.csv('../Data/train_FD001.txt', header=FALSE, sep = ' ')
+names(plane1)
+drop = c("V27","V28")
+df = plane1[,!(names(plane1) %in% drop)]
+plane1 = df
+dim(plane1)
+names(plane1) = c('unit', 'cycles', 'op_setting1', 'op_setting2', 'op_setting3', 's1', 's2', 's3', 's4', 's5', 's6', 's7', 's8', 's9', 's10', 's11', 's12', 's13', 's14', 's15', 's16', 's17', 's18', 's19', 's20', 's21')
+#head(plane1)
+currentUnit = 1
+status = rep(NA,length(plane1$unit))
+for (i in 1:length(plane1$unit)){
+  if (plane1$unit[i] == currentUnit){
+    status[i] = 0
+  }
+  else{
+    currentUnit = plane1$unit[i]
+    status[i] = 0
+    status[i-1] = 1
+  } 
+}
+
+status[length(plane1$unit)] = 1
+plane1$status = status
+drop = c('unit')
+plane1 = plane1[,!(names(plane1) %in% drop)]
+c1 = coxph(Surv(time=cycles, event=status)~., data=plane1)
+c1finalWithCensor = step(c1)
+plane1NoCensor = plane1[status==1,]
+c1 = coxph(Surv(time=cycles, event=status)~., data=plane1NoCensor)
+c1finalWithNoCensor = step(c1)
+```
+
+
+
+```{r}
+# FD002 analysis 
+library(survival)
+plane2 = read.csv('../Data/train_FD002.txt', header=FALSE, sep = ' ')
+names(plane2)
+drop = c("V27","V28")
+df = plane2[,!(names(plane2) %in% drop)]
+plane2 = df
+dim(plane2)
+names(plane2) = c('unit', 'cycles', 'op_setting1', 'op_setting2', 'op_setting3', 's1', 's2', 's3', 's4', 's5', 's6', 's7', 's8', 's9', 's10', 's11', 's12', 's13', 's14', 's15', 's16', 's17', 's18', 's19', 's20', 's21')
+#head(plane1)
+currentUnit = 1
+status = rep(NA,length(plane2$unit))
+for (i in 1:length(plane2$unit)){
+  if (plane2$unit[i] == currentUnit){
+    status[i] = 0
+  }
+  else{
+    currentUnit = plane2$unit[i]
+    status[i] = 0
+    status[i-1] = 1
+  } 
+}
+
+status[length(plane2$unit)] = 1
+plane2$status = status
+plane2$unit[status==1]
+drop = c('unit')
+plane2 = plane2[,!(names(plane2) %in% drop)]
+c2 = coxph(Surv(time=cycles, event=status)~., data=plane2)
+c2finalWithCensor = step(c2)
+plane2NoCensor = plane2[status==1,]
+c2 = coxph(Surv(time=cycles, event=status)~., data=plane2NoCensor)
+c2finalWithNoCensor = step(c2)
+```
+
+
+
+```{r}
+# FD003 analysis 
+library(survival)
+plane3 = read.csv('../Data/train_FD003.txt', header=FALSE, sep = ' ')
+names(plane3)
+drop = c("V27","V28")
+df = plane3[,!(names(plane3) %in% drop)]
+plane3 = df
+dim(plane3)
+names(plane3) = c('unit', 'cycles', 'op_setting1', 'op_setting2', 'op_setting3', 's1', 's2', 's3', 's4', 's5', 's6', 's7', 's8', 's9', 's10', 's11', 's12', 's13', 's14', 's15', 's16', 's17', 's18', 's19', 's20', 's21')
+#head(plane1)
+currentUnit = 1
+status = rep(NA,length(plane3$unit))
+for (i in 1:length(plane3$unit)){
+  if (plane3$unit[i] == currentUnit){
+    status[i] = 0
+  }
+  else{
+    currentUnit = plane3$unit[i]
+    status[i] = 0
+    status[i-1] = 1
+  } 
+}
+
+status[length(plane3$unit)] = 1
+plane3$status = status
+plane3$unit[status==1]
+drop = c('unit')
+plane3 = plane3[,!(names(plane3) %in% drop)]
+c3 = coxph(Surv(time=cycles, event=status)~., data=plane3)
+c3finalWithCensor = step(c3)
+plane3NoCensor = plane3[status==1,]
+c3 = coxph(Surv(time=cycles, event=status)~., data=plane3NoCensor)
+c3finalWithNoCensor = step(c1)
+```
+
+
+
+```{r}
+# FD004 analysis 
+library(survival)
+plane4 = read.csv('../Data/train_FD004.txt', header=FALSE, sep = ' ')
+names(plane4)
+drop = c("V27","V28")
+df = plane4[,!(names(plane1) %in% drop)]
+plane4 = df
+dim(plane4)
+names(plane4) = c('unit', 'cycles', 'op_setting1', 'op_setting2', 'op_setting3', 's1', 's2', 's3', 's4', 's5', 's6', 's7', 's8', 's9', 's10', 's11', 's12', 's13', 's14', 's15', 's16', 's17', 's18', 's19', 's20', 's21')
+#head(plane1)
+currentUnit = 1
+status = rep(NA,length(plane4$unit))
+for (i in 1:length(plane4$unit)){
+  if (plane4$unit[i] == currentUnit){
+    status[i] = 0
+  }
+  else{
+    currentUnit = plane4$unit[i]
+    status[i] = 0
+    status[i-1] = 1
+  } 
+}
+
+status[length(plane4$unit)] = 1
+plane4$status = status
+plane1$unit[status==1]
+drop = c('unit')
+plane4 = plane4[,!(names(plane4) %in% drop)]
+c4 = coxph(Surv(time=cycles, event=status)~., data=plane4)
+c4finalWithCensor = step(c4)
+plane4NoCensor = plane4[status==1,]
+c4 = coxph(Surv(time=cycles, event=status)~., data=plane4NoCensor)
+c4finalWithNoCensor = step(c4)
+```
+
+```{r}
+test_plane1 = read.csv('../Data/test_FD001.txt', header=FALSE, sep = ' ')
+drop = c("V27","V28", "V1")
+test_plane1 = test_plane1[,!(names(test_plane1) %in% drop)]
+test_plane2 = read.csv('../Data/test_FD002.txt', header=FALSE, sep = ' ')
+test_plane3 = read.csv('../Data/test_FD003.txt', header=FALSE, sep = ' ')
+test_plane4 = read.csv('../Data/test_FD004.txt', header=FALSE, sep = ' ')
+names(test_plane1) = c('cycles', 'op_setting1', 'op_setting2', 'op_setting3', 's1', 's2', 's3', 's4', 's5', 's6', 's7', 's8', 's9', 's10', 's11', 's12', 's13', 's14', 's15', 's16', 's17', 's18', 's19', 's20', 's21')
+
+options(na.action=na.exclude) # retain NA in predictions
+
+prediction = predict(object = coxph(Surv(time=cycles, event=status)~., data=plane1),newdata=test_plane1, type = "risk" )
+#prediction
+test_plane1_with_risk <- test_plane1
+test_plane1_with_risk <- cbind(test_plane1_with_risk, prediction)
+test_plane1_with_risk
+
+
+```
+
