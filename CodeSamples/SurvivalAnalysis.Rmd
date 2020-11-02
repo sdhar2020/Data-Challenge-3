@@ -61,7 +61,6 @@ res.cox
 ```{r}
 summary(res.cox)
 ```
-
 ## Multivariate Cox Regression Model
 
 ```{r}
