@@ -11,6 +11,8 @@ library(shiny)
 library(tidyverse)
 library(reticulate)
 library(shinyWidgets)
+library(ggthemes)
+
 source_python('helper.py')
 
 dat <- read.csv('RUL_FD001_Out.csv')
@@ -95,17 +97,26 @@ server <- function(input, output) {
     
     output$cumTable <- renderTable(healthyOutlook())
     
-    #TBD Placeholder for setting ylim based on input$percentOrRaw conditional
     ymax <- reactive({ifelse(input$percentOrRaw, 1, 100)})
     yText <- reactive({ifelse(input$percentOrRaw, "Percent Healthy", "Raw Number Healthy")})
     output$cumline <- renderPlot({
         ggplot(data = healthyOutlook(), face = "bold") +
-            geom_step(mapping = aes(Days_in_Future, Healthy)) +
+            geom_step(mapping = aes(Days_in_Future, Healthy), size=2) +
             ggtitle("Additional Squadron Health Projections") +
             xlim(0 ,100) +
             ylim(0, ymax()) + 
             ylab(yText()) + 
-            theme(plot.title = element_text(size = 20, face = "bold"))
+            theme_economist() + 
+            #theme_tufte() + 
+            theme(plot.title = element_text(size = 20, face = "bold"),
+                  axis.title.y = element_text(size = 12, face = "bold"),
+                  axis.title.x = element_text(size = 12, face = "bold"),
+                  axis.text.y = element_text(size = 8, face = "bold"),
+                  axis.text.x = element_text(size = 8, face = "bold"),
+                  axis.line = element_line(colour = "darkblue", 
+                                           size = 1, linetype = "solid"),
+                  panel.margin = unit(0.1, "cm"))
+            
     })
 
 }
