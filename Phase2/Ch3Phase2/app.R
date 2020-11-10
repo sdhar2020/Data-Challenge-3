@@ -9,6 +9,8 @@
 
 library(shiny)
 library(tidyverse)
+library(reticulate)
+source_python('helper.py')
 
 dat <- read.csv('RUL_FD001_Out.csv')
 #buffer <- 3 
@@ -41,7 +43,9 @@ ui <- fluidPage(
            textOutput("summary"),
            br(),
            h4("Bad Motors:"),
-           textOutput("badMotor")
+           textOutput("badMotor"),
+           plotOutput("histPlot"),
+           tableOutput("cumTable")
         )
     )
 )
@@ -60,10 +64,26 @@ server <- function(input, output) {
     
     not_nready <- reactive({nrow(not_ready())})
     
+    healthyOutlook <- reactive({calc_cum_percentiles(arrange(ready(), futureHealth)$futureHealth)})
+    
     output$summary <- renderText({
         nready()
     })
     output$badMotor <- renderText({not_ready()$X + 1})
+    
+    output$histPlot <- renderPlot({
+        hist(ready()$futureHealth,
+             xlab = "RUL",
+             main = "Projected Motor Lifespans")
+    })
+    
+    output$cumTable <- renderTable(healthyOutlook())
+    
+    #output$cumline < - renderPlot({
+    #    ggplot(data = healthyOutlook()) +
+    #        geom_step(mapping = aes(Days_in_Future, PercentHealthy))
+    #})
+
 }
 
 # Run the application 
