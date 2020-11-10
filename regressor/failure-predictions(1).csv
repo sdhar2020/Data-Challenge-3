@@ -1,0 +1,708 @@
+unit,Fail Mode 1,Fail Mode 2,Fail Mode 3,Fail Mode 4,Final Effect RUL,Operating-Stage,squadron
+1205,0,10,0,9,0,Super Critical,56th Fighter Wing AETC-308th Fighter Squadron
+3203,0,88,18,57,0,Super Critical,53d Test and Evaluation Group-31st TE Squadron
+3169,0,19,0,12,0,Super Critical,56th Fighter Wing AETC-61st Fighter Squadron
+1175,6,43,0,28,0,Super Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+3014,0,39,0,30,0,Super Critical,33d Fighter Wing AETC-58th Fighter Squadron
+3133,0,60,0,40,0,Super Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1239,0,44,0,30,0,Super Critical,53d Test and Evaluation Group-31st TE Squadron
+1220,2,22,0,17,0,Super Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1083,0,9,0,8,0,Super Critical,33d Fighter Wing AETC-58th Fighter Squadron
+3125,0,11,0,7,0,Super Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+3226,1,27,0,18,0,Super Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+3229,0,12,0,8,0,Super Critical,33d Fighter Wing AETC-58th Fighter Squadron
+1218,0,29,0,15,0,Super Critical,33d Fighter Wing AETC-58th Fighter Squadron
+3204,0,5,0,4,0,Super Critical,56th Fighter Wing AETC-308th Fighter Squadron
+3053,0,36,0,23,0,Super Critical,56th Fighter Wing AETC-308th Fighter Squadron
+1201,0,10,0,8,0,Super Critical,33d Fighter Wing AETC-58th Fighter Squadron
+1121,0,24,0,18,0,Super Critical,56th Fighter Wing AETC-61st Fighter Squadron
+1194,0,28,0,17,0,Super Critical,53d Test and Evaluation Group-31st TE Squadron
+1138,3,25,1,30,1,Super Critical,53d Test and Evaluation Group-31st TE Squadron
+3241,2,21,2,15,2,Super Critical,53d Test and Evaluation Group-31st TE Squadron
+3156,2,14,2,10,2,Super Critical,56th Fighter Wing AETC-61st Fighter Squadron
+1059,3,8,3,7,3,Super Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1223,8,19,4,12,4,Super Critical,53d Test and Evaluation Group-31st TE Squadron
+3141,4,12,4,8,4,Super Critical,33d Fighter Wing AETC-58th Fighter Squadron
+1116,4,17,6,22,4,Super Critical,53d Test and Evaluation Group-31st TE Squadron
+3028,6,12,4,7,4,Super Critical,33d Fighter Wing AETC-58th Fighter Squadron
+3186,8,20,5,17,5,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+3073,5,32,9,29,5,Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1103,5,15,6,18,5,Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1178,5,20,5,17,5,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+1256,6,24,5,17,5,Critical,56th Fighter Wing AETC-61st Fighter Squadron
+3109,12,52,6,35,6,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+1022,7,17,6,20,6,Critical,56th Fighter Wing AETC-61st Fighter Squadron
+1102,9,16,6,19,6,Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1028,8,8,9,6,6,Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1228,7,12,6,11,6,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+1122,9,15,6,11,6,Critical,56th Fighter Wing AETC-61st Fighter Squadron
+3019,9,15,7,11,7,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+1090,11,20,7,23,7,Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+3144,10,15,7,10,7,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+1089,7,23,7,18,7,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+3142,14,42,8,27,8,Critical,33d Fighter Wing AETC-58th Fighter Squadron
+1197,14,42,8,26,8,Critical,33d Fighter Wing AETC-58th Fighter Squadron
+3010,16,17,8,8,8,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+1101,10,19,8,13,8,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+3239,10,16,8,11,8,Critical,53d Test and Evaluation Group-31st TE Squadron
+3246,10,21,8,13,8,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+3225,11,18,9,12,9,Critical,33d Fighter Wing AETC-58th Fighter Squadron
+1123,9,29,10,21,9,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+3027,9,39,9,36,9,Critical,33d Fighter Wing AETC-58th Fighter Squadron
+85,13,14,13,9,9,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+1124,9,16,9,19,9,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+1204,15,21,9,14,9,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+3164,13,16,10,11,10,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+1023,10,17,10,14,10,Critical,53d Test and Evaluation Group-31st TE Squadron
+1240,11,19,10,14,10,Critical,53d Test and Evaluation Group-31st TE Squadron
+1174,10,16,10,13,10,Critical,56th Fighter Wing AETC-308th Fighter Squadron
+1037,12,22,10,16,10,Critical,33d Fighter Wing AETC-58th Fighter Squadron
+1099,16,21,10,22,10,Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1249,12,15,10,12,10,Critical,56th Fighter Wing AETC-63rd Fighter Squadron
+1159,10,20,13,31,10,Critical,56th Fighter Wing AETC-61st Fighter Squadron
+1221,10,20,10,16,10,Critical,56th Fighter Wing AETC-62nd Fighter Squadron
+1200,11,23,11,19,11,Normal,53d Test and Evaluation Group-31st TE Squadron
+2082,371,88,11,21,11,Normal,53d Test and Evaluation Group-31st TE Squadron
+1210,11,17,18,14,11,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1,15,20,14,11,11,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3005,14,14,12,11,11,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1061,13,34,11,25,11,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3209,13,20,11,26,11,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1165,13,15,11,11,11,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3046,13,16,11,13,11,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3100,321,81,12,22,12,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1177,13,12,12,14,12,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1044,12,25,16,23,12,Normal,53d Test and Evaluation Group-31st TE Squadron
+3118,317,86,12,21,12,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1117,12,20,13,14,12,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1227,12,19,15,20,12,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1231,13,17,12,19,12,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1243,14,14,14,12,12,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1242,17,27,12,27,12,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1051,18,19,13,13,13,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+22,18,20,16,13,13,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3015,311,87,13,24,13,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3136,13,19,15,17,13,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3059,13,19,14,14,13,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2052,20,24,13,14,13,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1005,13,20,16,21,13,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1091,18,32,13,35,13,Normal,53d Test and Evaluation Group-31st TE Squadron
+14,17,19,18,13,13,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3116,13,36,17,28,13,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2094,635,143,14,30,14,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1233,14,22,15,14,14,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1182,14,24,17,25,14,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3183,14,21,14,24,14,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1014,17,23,14,24,14,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1225,14,18,17,18,14,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3007,20,17,20,14,14,Normal,53d Test and Evaluation Group-31st TE Squadron
+1131,19,44,14,25,14,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+39,17,23,14,14,14,Normal,53d Test and Evaluation Group-31st TE Squadron
+1244,14,20,14,14,14,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3097,19,18,20,14,14,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+33,18,19,18,14,14,Normal,53d Test and Evaluation Group-31st TE Squadron
+3158,14,18,16,23,14,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1158,19,23,14,25,14,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3155,17,26,15,23,15,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3031,19,17,18,15,15,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3038,15,23,19,26,15,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1018,20,24,19,15,15,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3101,20,18,15,21,15,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1190,19,22,15,26,15,Normal,53d Test and Evaluation Group-31st TE Squadron
+1134,21,35,15,22,15,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1147,15,27,17,22,15,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2,20,21,19,15,15,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1224,19,27,16,16,16,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1064,20,38,16,36,16,Normal,53d Test and Evaluation Group-31st TE Squadron
+1136,16,25,16,21,16,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1050,16,17,17,17,16,Normal,53d Test and Evaluation Group-31st TE Squadron
+3098,20,51,16,35,16,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+36,23,16,22,19,16,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+25,23,27,21,16,16,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1173,17,19,16,20,16,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3076,23,30,16,21,16,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+35,19,16,18,19,16,Normal,53d Test and Evaluation Group-31st TE Squadron
+2046,349,90,16,22,16,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1105,16,32,16,23,16,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+66,19,21,17,16,16,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1100,16,22,16,21,16,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3179,518,126,16,31,16,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2054,25,27,21,17,17,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3058,17,29,20,25,17,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1148,21,21,17,19,17,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+9,22,24,23,17,17,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1049,19,30,17,21,17,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1208,19,24,17,22,17,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2088,25,38,17,19,17,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3022,21,22,17,18,17,Normal,53d Test and Evaluation Group-31st TE Squadron
+1002,19,20,19,17,17,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3196,22,39,17,26,17,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1217,20,24,18,17,17,Normal,53d Test and Evaluation Group-31st TE Squadron
+56,17,19,19,20,17,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1154,19,27,18,18,18,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+31,18,26,25,28,18,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+69,24,27,23,18,18,Normal,53d Test and Evaluation Group-31st TE Squadron
+3184,22,18,19,20,18,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3194,270,119,18,40,18,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+44,23,23,21,18,18,Normal,53d Test and Evaluation Group-31st TE Squadron
+3237,18,28,19,27,18,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1011,18,31,24,29,18,Normal,53d Test and Evaluation Group-31st TE Squadron
+3045,24,38,18,27,18,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1006,21,33,18,23,18,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3198,25,25,26,18,18,Normal,53d Test and Evaluation Group-31st TE Squadron
+1035,18,25,19,20,18,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3052,18,63,31,35,18,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2037,22,26,21,18,18,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3220,47,42,18,24,18,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1113,22,27,19,18,18,Normal,53d Test and Evaluation Group-31st TE Squadron
+1096,25,28,19,32,19,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1252,19,37,20,35,19,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3084,28,60,19,35,19,Normal,53d Test and Evaluation Group-31st TE Squadron
+1077,25,24,26,19,19,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2006,26,24,23,19,19,Normal,53d Test and Evaluation Group-31st TE Squadron
+1071,22,37,19,23,19,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1206,19,44,20,40,19,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3113,19,22,23,23,19,Normal,53d Test and Evaluation Group-31st TE Squadron
+3170,25,28,20,19,19,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+81,20,27,19,22,19,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+88,29,30,29,19,19,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+68,28,27,19,22,19,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1214,24,37,19,25,19,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1186,19,25,21,25,19,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3135,827,203,19,70,19,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3130,21,49,19,34,19,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3202,19,23,21,24,19,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3122,19,101,29,77,19,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1010,22,41,19,26,19,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1038,21,33,20,30,20,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1057,25,49,20,29,20,Normal,53d Test and Evaluation Group-31st TE Squadron
+1251,21,33,20,23,20,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2081,283,84,20,30,20,Normal,53d Test and Evaluation Group-31st TE Squadron
+1215,22,26,20,20,20,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2013,27,31,24,20,20,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1192,25,28,20,25,20,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1095,20,22,23,21,20,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1004,21,27,20,22,20,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2047,28,29,25,20,20,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2098,23,23,20,20,20,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1009,24,26,20,25,20,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3082,24,25,20,23,20,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1082,30,46,20,32,20,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1169,22,27,20,23,20,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1241,24,38,20,20,20,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3054,22,26,21,21,21,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3219,25,23,24,21,21,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3173,28,23,26,21,21,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3114,399,122,21,34,21,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1211,21,26,26,25,21,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3168,23,29,21,21,21,Normal,53d Test and Evaluation Group-31st TE Squadron
+3069,21,24,22,21,21,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2050,23,22,25,21,21,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1034,23,29,21,22,21,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+11,31,30,32,21,21,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1048,21,26,22,27,21,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3218,24,31,21,21,21,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1160,23,31,21,25,21,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1032,29,21,23,25,21,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3081,29,32,21,24,21,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1007,21,31,27,31,21,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1092,21,54,23,38,21,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3020,21,39,21,32,21,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3205,21,30,25,26,21,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3200,21,44,22,33,21,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+40,28,23,21,22,21,Normal,53d Test and Evaluation Group-31st TE Squadron
+1125,24,33,22,24,22,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1146,22,27,23,23,22,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3008,22,28,28,32,22,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1172,22,51,24,42,22,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1164,24,34,22,36,22,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1080,32,30,22,39,22,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3245,38,43,22,24,22,Normal,53d Test and Evaluation Group-31st TE Squadron
+1012,30,31,28,22,22,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3154,27,23,25,22,22,Normal,53d Test and Evaluation Group-31st TE Squadron
+3115,26,36,22,26,22,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+87,27,36,23,22,22,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3166,26,33,22,23,22,Normal,53d Test and Evaluation Group-31st TE Squadron
+1087,22,27,23,24,22,Normal,53d Test and Evaluation Group-31st TE Squadron
+1066,22,29,23,23,22,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2091,24,34,23,23,23,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2092,528,132,23,33,23,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1161,23,31,24,25,23,Normal,53d Test and Evaluation Group-31st TE Squadron
+3162,29,30,26,23,23,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3112,29,30,32,23,23,Normal,53d Test and Evaluation Group-31st TE Squadron
+1149,27,35,27,23,23,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+67,34,41,30,23,23,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2070,31,31,31,23,23,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1250,27,26,23,34,23,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1246,34,32,31,23,23,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1106,27,36,23,24,23,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3040,450,134,24,46,24,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1027,30,37,24,25,24,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1026,31,41,25,24,24,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+92,30,30,33,24,24,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1245,29,28,27,24,24,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1156,34,39,24,27,24,Normal,53d Test and Evaluation Group-31st TE Squadron
+1155,35,41,24,31,24,Normal,53d Test and Evaluation Group-31st TE Squadron
+3224,31,26,25,24,24,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+83,34,37,30,24,24,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1093,31,34,30,24,24,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3215,32,38,24,27,24,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1141,28,31,26,24,24,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2004,30,36,32,24,24,Normal,53d Test and Evaluation Group-31st TE Squadron
+3175,28,43,24,31,24,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3174,31,28,32,24,24,Normal,53d Test and Evaluation Group-31st TE Squadron
+76,24,30,26,26,24,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3091,27,46,24,37,24,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1170,25,37,24,32,24,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3103,27,25,27,24,24,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3123,194,152,24,56,24,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3227,35,54,25,34,25,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3172,25,27,28,29,25,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2086,25,29,25,25,25,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+82,29,29,28,25,25,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3181,25,26,25,34,25,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2042,34,32,36,25,25,Normal,53d Test and Evaluation Group-31st TE Squadron
+1188,33,35,29,25,25,Normal,53d Test and Evaluation Group-31st TE Squadron
+2099,559,141,25,32,25,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3240,365,109,25,39,25,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+71,31,37,25,26,25,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3187,30,30,28,25,25,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+48,32,37,31,25,25,Normal,53d Test and Evaluation Group-31st TE Squadron
+3055,61,74,25,40,25,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1167,30,34,25,28,25,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1045,25,37,25,29,25,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1042,28,31,25,26,25,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+65,37,43,26,30,26,Normal,53d Test and Evaluation Group-31st TE Squadron
+90,30,28,28,26,26,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3026,28,39,26,28,26,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+47,31,35,32,26,26,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1052,32,36,26,32,26,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2028,35,52,26,27,26,Normal,53d Test and Evaluation Group-31st TE Squadron
+1001,28,27,26,33,26,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1054,31,36,27,26,26,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+5,34,37,39,26,26,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3126,26,49,27,36,26,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3145,32,32,27,26,26,Normal,53d Test and Evaluation Group-31st TE Squadron
+2026,34,31,42,27,27,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3238,27,36,28,33,27,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3213,563,145,27,46,27,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+34,38,34,37,27,27,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1094,31,35,27,31,27,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3247,27,37,27,30,27,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1132,41,33,39,27,27,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+50,31,38,28,27,27,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1081,33,37,27,27,27,Normal,53d Test and Evaluation Group-31st TE Squadron
+3086,236,150,27,65,27,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2011,34,37,32,27,27,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1236,33,39,27,40,27,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1039,27,35,27,30,27,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1047,30,36,31,27,27,Normal,53d Test and Evaluation Group-31st TE Squadron
+1187,33,42,27,29,27,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1185,27,52,30,43,27,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3151,529,127,27,38,27,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3070,246,116,28,44,28,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+15,39,44,31,28,28,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+26,34,47,28,28,28,Normal,53d Test and Evaluation Group-31st TE Squadron
+3051,28,123,33,91,28,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2034,38,37,37,28,28,Normal,53d Test and Evaluation Group-31st TE Squadron
+1086,30,36,32,28,28,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1184,35,44,28,29,28,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1020,37,34,33,28,28,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2084,35,38,28,28,28,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+42,37,35,42,28,28,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3127,56,71,28,39,28,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3012,431,129,28,52,28,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3042,29,35,28,35,28,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1112,30,37,28,31,28,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3180,710,162,28,52,28,Normal,53d Test and Evaluation Group-31st TE Squadron
+2003,426,124,28,37,28,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3177,28,32,31,28,28,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3148,37,69,28,43,28,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2079,37,29,34,28,28,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2074,44,60,29,28,28,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3104,28,63,34,34,28,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3146,42,71,29,42,29,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1166,32,44,29,33,29,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1056,37,58,29,31,29,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1152,36,38,38,29,29,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1253,35,36,33,29,29,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3107,33,41,29,36,29,Normal,53d Test and Evaluation Group-31st TE Squadron
+3065,212,93,29,39,29,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1019,29,39,38,38,29,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1097,29,33,33,33,29,Normal,53d Test and Evaluation Group-31st TE Squadron
+1127,40,36,37,29,29,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1216,33,33,36,29,29,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+41,40,38,43,29,29,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+61,36,33,36,29,29,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3077,29,30,31,32,29,Normal,53d Test and Evaluation Group-31st TE Squadron
+1191,36,43,33,29,29,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+75,41,46,38,29,29,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3147,41,59,29,39,29,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1139,33,39,29,32,29,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2039,590,143,29,35,29,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1041,30,44,31,44,30,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+4,37,36,34,30,30,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3191,48,56,30,30,30,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1118,36,52,30,32,30,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1078,43,52,30,38,30,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1033,30,39,32,32,30,Normal,53d Test and Evaluation Group-31st TE Squadron
+1107,30,45,31,37,30,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3071,509,164,30,45,30,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+20,31,30,32,31,30,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+24,30,39,30,33,30,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+78,39,66,30,34,30,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3214,34,39,30,30,30,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3117,32,49,30,36,30,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2038,35,35,31,31,31,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3189,85,67,31,35,31,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2029,46,48,42,31,31,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3094,37,73,31,44,31,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2032,32,37,31,32,31,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1254,31,39,33,32,31,Normal,53d Test and Evaluation Group-31st TE Squadron
+98,39,38,38,31,31,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1235,33,44,31,36,31,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+38,32,35,32,31,31,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+46,35,38,36,31,31,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+95,40,44,38,31,31,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+100,31,48,35,37,31,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3,37,39,37,31,31,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1142,31,35,31,33,31,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1209,32,46,35,38,32,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3231,302,133,32,46,32,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1111,33,36,32,33,32,Normal,53d Test and Evaluation Group-31st TE Squadron
+1238,44,58,32,40,32,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3066,35,42,33,32,32,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1098,32,37,33,35,32,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1120,39,47,37,32,32,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+37,45,43,44,32,32,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3095,34,46,36,32,32,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1247,41,59,32,40,32,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3132,35,43,32,37,32,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+94,38,39,37,32,32,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1040,35,38,32,38,32,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1198,33,38,35,32,32,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2065,46,58,32,34,32,Normal,53d Test and Evaluation Group-31st TE Squadron
+3139,68,77,32,37,32,Normal,53d Test and Evaluation Group-31st TE Squadron
+1015,32,42,37,37,32,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1043,34,40,33,38,33,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1229,38,40,35,33,33,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+79,43,46,43,33,33,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+6,43,44,44,33,33,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3121,39,41,36,33,33,Normal,53d Test and Evaluation Group-31st TE Squadron
+2027,87,82,33,36,33,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3160,57,87,33,52,33,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1070,36,46,33,46,33,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3102,778,221,33,73,33,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1058,35,40,33,41,33,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1055,33,51,34,38,33,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3060,104,85,33,42,33,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1016,35,39,37,34,34,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1126,41,47,34,35,34,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1222,34,53,35,49,34,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2058,44,45,40,34,34,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2014,35,41,34,38,34,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3159,34,40,39,36,34,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+18,41,47,41,34,34,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1053,37,50,34,41,34,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3011,61,71,35,34,34,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1176,35,61,40,46,35,Normal,53d Test and Evaluation Group-31st TE Squadron
+3216,35,44,38,39,35,Normal,53d Test and Evaluation Group-31st TE Squadron
+3201,91,93,35,59,35,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3078,46,57,43,35,35,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+53,35,42,37,37,35,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2045,46,68,36,35,35,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2044,49,45,51,35,35,Normal,53d Test and Evaluation Group-31st TE Squadron
+64,41,42,38,35,35,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3067,41,43,37,35,35,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2078,499,152,35,46,35,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3153,49,64,35,46,35,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3023,36,41,35,35,35,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1029,40,49,41,35,35,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1074,41,62,35,38,35,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1031,43,61,35,42,35,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2080,36,91,45,39,36,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3002,40,54,36,44,36,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+86,42,51,41,36,36,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1171,40,54,36,46,36,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3090,39,49,38,36,36,Normal,53d Test and Evaluation Group-31st TE Squadron
+1203,45,74,36,54,36,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2002,45,45,43,36,36,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2061,42,71,38,36,36,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2025,52,47,51,36,36,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2059,40,41,39,36,36,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3092,42,61,37,44,37,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+32,46,51,37,41,37,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2089,86,91,37,41,37,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3106,43,51,47,37,37,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2085,83,87,37,40,37,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1196,48,54,37,46,37,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1144,43,45,43,37,37,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+99,49,73,37,40,37,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1021,37,52,39,41,37,Normal,53d Test and Evaluation Group-31st TE Squadron
+1168,38,42,39,37,37,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+45,50,47,48,37,37,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+58,50,52,47,37,37,Normal,53d Test and Evaluation Group-31st TE Squadron
+2053,47,51,44,37,37,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2060,48,58,48,38,38,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1179,45,43,48,38,38,Normal,53d Test and Evaluation Group-31st TE Squadron
+3233,47,51,40,38,38,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3242,45,58,41,38,38,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3228,38,114,44,77,38,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3049,379,160,38,53,38,Normal,53d Test and Evaluation Group-31st TE Squadron
+1109,38,39,41,39,38,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3096,40,51,39,38,38,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2051,47,51,47,38,38,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2024,998,242,38,48,38,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+77,47,49,51,38,38,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2007,51,53,57,38,38,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3080,40,48,38,38,38,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1065,41,38,39,51,38,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1259,46,65,38,45,38,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2021,491,152,39,49,39,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3001,234,140,39,61,39,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1150,42,45,49,39,39,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3150,39,49,40,40,39,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3234,52,53,51,39,39,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1128,41,53,39,41,39,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2066,45,52,42,39,39,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3182,44,56,39,42,39,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+96,48,67,39,39,39,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+55,51,58,47,39,39,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3217,49,48,47,39,39,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3235,687,204,39,70,39,Normal,53d Test and Evaluation Group-31st TE Squadron
+30,54,55,51,39,39,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1024,56,99,39,68,39,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1072,48,50,47,40,40,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2036,51,89,40,40,40,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+91,46,52,45,40,40,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1130,47,54,43,40,40,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1079,45,61,46,40,40,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1062,40,49,42,44,40,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1085,40,46,45,44,40,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3036,138,105,40,46,40,Normal,53d Test and Evaluation Group-31st TE Squadron
+3167,53,70,40,41,40,Normal,53d Test and Evaluation Group-31st TE Squadron
+1207,40,59,44,48,40,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1258,45,59,40,41,40,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1248,47,57,40,48,40,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2073,54,73,44,40,40,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1013,40,47,42,45,40,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1189,44,62,49,40,40,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+72,48,54,46,41,41,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3064,313,139,41,62,41,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1084,41,42,42,41,41,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3088,44,63,41,51,41,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3163,48,60,41,45,41,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1133,41,72,46,53,41,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1076,41,64,45,51,41,Normal,53d Test and Evaluation Group-31st TE Squadron
+1151,41,57,41,46,41,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1073,50,51,52,41,41,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+80,50,57,49,41,41,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2057,61,64,59,42,42,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1063,47,57,42,44,42,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1230,52,73,50,42,42,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+16,53,61,45,42,42,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2048,55,44,50,42,42,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1232,49,55,49,42,42,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3043,43,56,42,45,42,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2069,54,70,42,45,42,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+59,48,66,42,42,42,Normal,53d Test and Evaluation Group-31st TE Squadron
+1060,45,52,45,42,42,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1162,45,52,42,47,42,Normal,53d Test and Evaluation Group-31st TE Squadron
+1104,42,51,49,42,42,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1068,44,58,42,49,42,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3032,45,48,42,45,42,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3244,44,49,42,44,42,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1163,42,43,45,42,42,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3056,64,136,42,79,42,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+97,51,63,46,43,43,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+74,50,54,50,43,43,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3108,88,98,43,55,43,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2097,55,80,43,43,43,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1088,50,54,49,43,43,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1114,49,51,43,43,43,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1202,52,60,52,43,43,Normal,53d Test and Evaluation Group-31st TE Squadron
+2012,58,60,56,43,43,Normal,53d Test and Evaluation Group-31st TE Squadron
+3047,46,58,43,53,43,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3013,147,151,43,74,43,Normal,53d Test and Evaluation Group-31st TE Squadron
+60,58,61,57,44,44,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2019,54,72,44,45,44,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3210,44,63,46,50,44,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2076,53,52,54,44,44,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+57,60,66,62,44,44,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2010,56,64,47,44,44,Normal,53d Test and Evaluation Group-31st TE Squadron
+3199,49,50,51,44,44,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1213,49,61,51,44,44,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+19,57,67,55,45,45,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+52,52,58,45,46,45,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1180,58,64,60,45,45,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+70,58,62,55,45,45,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2100,371,149,45,57,45,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2055,59,57,61,45,45,Normal,53d Test and Evaluation Group-31st TE Squadron
+1193,48,48,46,48,46,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+54,65,75,46,47,46,Normal,53d Test and Evaluation Group-31st TE Squadron
+3190,153,138,46,65,46,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1025,60,66,46,51,46,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+17,49,64,46,49,46,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3185,55,69,46,50,46,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1046,57,99,46,57,46,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+43,60,57,54,46,46,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+63,57,54,59,46,46,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3062,327,158,46,60,46,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+21,56,74,46,49,46,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+73,59,69,49,46,46,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1234,60,67,58,46,46,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1036,47,66,46,52,46,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1008,47,54,47,48,47,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2008,63,56,63,47,47,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2041,62,104,47,49,47,Normal,53d Test and Evaluation Group-31st TE Squadron
+1237,60,56,47,51,47,Normal,53d Test and Evaluation Group-31st TE Squadron
+3197,47,59,49,50,47,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+51,57,62,60,47,47,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1183,52,62,48,47,47,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+28,59,69,58,47,47,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3061,663,213,47,70,47,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+8,58,63,62,48,48,Normal,53d Test and Evaluation Group-31st TE Squadron
+1153,57,68,49,48,48,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2056,63,62,60,48,48,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3057,70,99,48,56,48,Normal,53d Test and Evaluation Group-31st TE Squadron
+84,56,60,59,48,48,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1003,48,66,50,50,48,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1069,68,94,48,51,48,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1199,64,71,49,49,49,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2015,68,102,49,51,49,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3111,527,218,49,74,49,Normal,53d Test and Evaluation Group-31st TE Squadron
+3221,124,123,49,60,49,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3044,546,221,49,84,49,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3128,94,96,49,51,49,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2031,60,79,49,56,49,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+2071,706,213,49,74,49,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2001,258,161,49,57,49,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3222,157,118,50,56,50,Normal,53d Test and Evaluation Group-31st TE Squadron
+1181,58,58,64,50,50,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3165,62,141,50,79,50,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3188,50,75,51,58,50,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3099,207,157,50,69,50,Normal,53d Test and Evaluation Group-31st TE Squadron
+2020,249,158,50,57,50,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3087,100,122,50,82,50,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1067,53,76,50,51,50,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2035,109,121,50,56,50,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1115,53,60,59,50,50,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3035,51,70,55,56,51,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1030,62,70,53,51,51,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3039,168,142,51,80,51,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1226,64,75,69,51,51,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+27,64,73,61,51,51,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1108,63,95,51,69,51,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3033,51,105,55,65,51,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1257,55,67,52,56,52,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3212,167,185,52,89,52,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3134,343,169,52,63,52,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3208,52,72,55,61,52,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1255,71,74,56,52,52,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2022,84,101,52,53,52,Normal,53d Test and Evaluation Group-31st TE Squadron
+93,59,59,54,52,52,Normal,53d Test and Evaluation Group-31st TE Squadron
+1135,65,77,52,52,52,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2083,71,87,73,52,52,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3192,196,136,52,67,52,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3236,136,128,53,70,53,Normal,53d Test and Evaluation Group-31st TE Squadron
+89,67,72,70,53,53,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3248,57,58,56,53,53,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3140,63,80,53,55,53,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2063,119,143,53,59,53,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2075,175,144,54,56,54,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+1145,68,77,60,54,54,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2064,400,164,54,55,54,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1219,68,83,54,59,54,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2093,120,146,54,60,54,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+23,70,101,61,54,54,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3024,127,122,54,66,54,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3006,109,115,54,63,54,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+7,68,83,59,54,54,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3072,60,97,55,78,55,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2043,78,124,62,55,55,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3003,96,110,56,64,56,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3131,63,75,62,56,56,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3120,67,76,56,60,56,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3068,70,90,56,71,56,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1075,65,90,57,67,57,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3207,149,150,57,68,57,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+49,66,66,62,57,57,Normal,53d Test and Evaluation Group-31st TE Squadron
+13,76,84,70,57,57,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2016,71,113,59,58,58,Normal,53d Test and Evaluation Group-31st TE Squadron
+3079,142,142,58,71,58,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3176,69,85,58,63,58,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2033,77,89,64,58,58,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2072,262,154,59,73,59,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+1212,78,68,68,59,59,Normal,53d Test and Evaluation Group-31st TE Squadron
+3230,74,91,59,63,59,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2090,63,73,60,62,60,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3119,216,169,60,61,60,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+29,69,91,65,60,60,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2040,404,210,60,70,60,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2067,165,145,60,64,60,Normal,53d Test and Evaluation Group-31st TE Squadron
+1129,72,104,60,70,60,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3075,149,139,61,76,61,Normal,53d Test and Evaluation Group-31st TE Squadron
+62,77,86,66,62,62,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3063,70,89,62,63,62,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3085,84,138,62,76,62,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3048,188,136,62,75,62,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1143,73,98,68,63,63,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2005,73,135,68,63,63,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3152,173,161,63,72,63,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3021,175,138,63,74,63,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+1140,68,84,64,73,64,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3157,72,103,64,73,64,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1157,81,102,64,65,64,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3025,549,257,65,117,65,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3018,235,165,65,87,65,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3143,434,209,66,79,66,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3124,71,94,66,79,66,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+1119,86,95,79,66,66,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3223,268,212,67,102,67,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1110,72,97,67,67,67,Normal,53d Test and Evaluation Group-31st TE Squadron
+3138,172,173,68,92,68,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1137,80,102,72,68,68,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2009,86,94,89,70,70,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3004,108,160,71,94,71,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+10,83,109,77,71,71,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1195,73,97,71,72,71,Normal,53d Test and Evaluation Group-31st TE Squadron
+2087,80,99,73,74,73,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3089,272,200,73,78,73,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2062,188,178,73,89,73,Normal,53d Test and Evaluation Group-31st TE Squadron
+3029,147,156,74,89,74,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+12,91,112,77,74,74,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3050,105,164,75,87,75,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+2095,161,160,77,78,77,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3105,379,258,78,103,78,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3009,177,204,81,110,81,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3016,157,192,81,101,81,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3193,199,189,82,98,82,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2096,450,265,84,98,84,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3030,151,176,84,111,84,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3195,84,151,87,98,84,Normal,53d Test and Evaluation Group-31st TE Squadron
+3137,231,194,84,118,84,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+1017,85,102,87,85,85,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3206,335,216,85,124,85,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2068,109,189,90,85,85,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3149,254,247,86,124,86,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3093,91,179,87,101,87,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3211,87,249,105,171,87,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2017,162,219,88,92,88,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3243,123,177,92,91,91,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+3110,298,258,93,119,93,Normal,53d Test and Evaluation Group-31st TE Squadron
+3037,322,245,93,104,93,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+3171,321,267,96,123,96,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3074,117,194,96,115,96,Normal,53d Test and Evaluation Group-31st TE Squadron
+3083,181,240,99,118,99,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2018,141,239,107,101,101,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+3161,130,206,103,114,103,Normal,56th Fighter Wing AETC-63rd Fighter Squadron
+2049,119,226,108,110,108,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3178,173,242,109,143,109,Normal,56th Fighter Wing AETC-308th Fighter Squadron
+3017,256,239,109,120,109,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2023,378,285,112,128,112,Normal,56th Fighter Wing AETC-62nd Fighter Squadron
+2030,246,283,112,115,112,Normal,56th Fighter Wing AETC-61st Fighter Squadron
+2077,395,282,116,119,116,Normal,53d Test and Evaluation Group-31st TE Squadron
+3129,183,263,117,145,117,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3034,211,288,131,164,131,Normal,53d Test and Evaluation Group-31st TE Squadron
+3041,270,315,132,194,132,Normal,33d Fighter Wing AETC-58th Fighter Squadron
+3232,225,344,163,185,163,Normal,33d Fighter Wing AETC-58th Fighter Squadron
