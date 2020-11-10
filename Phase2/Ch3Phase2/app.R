@@ -97,12 +97,14 @@ server <- function(input, output) {
     
     #TBD Placeholder for setting ylim based on input$percentOrRaw conditional
     ymax <- reactive({ifelse(input$percentOrRaw, 1, 100)})
+    yText <- reactive({ifelse(input$percentOrRaw, "Percent Healthy", "Raw Number Healthy")})
     output$cumline <- renderPlot({
         ggplot(data = healthyOutlook(), face = "bold") +
             geom_step(mapping = aes(Days_in_Future, Healthy)) +
             ggtitle("Additional Squadron Health Projections") +
             xlim(0 ,100) +
             ylim(0, ymax()) + 
+            ylab(yText()) + 
             theme(plot.title = element_text(size = 20, face = "bold"))
     })
 
