@@ -44,8 +44,9 @@ ui <- fluidPage(
            br(),
            h4("Bad Motors:"),
            textOutput("badMotor"),
-           plotOutput("histPlot"),
-           tableOutput("cumTable")
+           #plotOutput("histPlot"),
+           plotOutput("cumline"),
+           #tableOutput("cumTable")
         )
     )
 )
@@ -79,10 +80,10 @@ server <- function(input, output) {
     
     output$cumTable <- renderTable(healthyOutlook())
     
-    #output$cumline < - renderPlot({
-    #    ggplot(data = healthyOutlook()) +
-    #        geom_step(mapping = aes(Days_in_Future, PercentHealthy))
-    #})
+    output$cumline <- renderPlot({
+        ggplot(data = healthyOutlook()) +
+            geom_step(mapping = aes(Days_in_Future, PercentHealthy))
+    })
 
 }
 
