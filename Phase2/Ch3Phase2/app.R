@@ -10,6 +10,7 @@
 library(shiny)
 library(tidyverse)
 library(reticulate)
+library(shinyWidgets)
 source_python('helper.py')
 
 dat <- read.csv('RUL_FD001_Out.csv')
@@ -33,7 +34,18 @@ ui <- fluidPage(
                         "Buffer on Estimates:",
                         min = 0,
                         max = 20,
-                        value = 3)
+                        value = 3),
+            sliderInput("sorties",
+                        "Sorties per Day:",
+                        min = 0,
+                        max = 5,
+                        value = 1),
+            prettyToggle(
+                inputId = "percentOrRaw",
+                label_on = "Graph Percent Forecast",
+                label_off = "Graph Raw Forecast",
+                inline = TRUE
+            )
         ),
         
 
@@ -45,7 +57,9 @@ ui <- fluidPage(
            h4("Bad Motors:"),
            textOutput("badMotor"),
            #plotOutput("histPlot"),
-           plotOutput("cumline"),
+           br(),
+           plotOutput("cumline")
+           #textOutput("debug")
            #tableOutput("cumTable")
         )
     )
@@ -55,7 +69,7 @@ ui <- fluidPage(
 server <- function(input, output) {
     
     temp <- reactive({dat %>%
-                        mutate(futureHealth = Predicted - input$days)})
+                        mutate(futureHealth = Predicted - (input$sorties*input$days))})
     ready <- reactive({temp() %>%
                             filter(futureHealth >= input$buffer)})
     not_ready <- reactive({temp() %>%
@@ -65,8 +79,9 @@ server <- function(input, output) {
     
     not_nready <- reactive({nrow(not_ready())})
     
-    healthyOutlook <- reactive({calc_cum_percentiles(arrange(ready(), futureHealth)$futureHealth)})
+    healthyOutlook <- reactive({calc_cum_percentiles(arrange(ready(), futureHealth)$futureHealth, input$percentOrRaw)})
     
+    #output$debug <- renderText({ymax()})
     output$summary <- renderText({
         nready()
     })
@@ -80,9 +95,15 @@ server <- function(input, output) {
     
     output$cumTable <- renderTable(healthyOutlook())
     
+    #TBD Placeholder for setting ylim based on input$percentOrRaw conditional
+    ymax <- reactive({ifelse(input$percentOrRaw, 1, 100)})
     output$cumline <- renderPlot({
-        ggplot(data = healthyOutlook()) +
-            geom_step(mapping = aes(Days_in_Future, PercentHealthy))
+        ggplot(data = healthyOutlook(), face = "bold") +
+            geom_step(mapping = aes(Days_in_Future, Healthy)) +
+            ggtitle("Additional Squadron Health Projections") +
+            xlim(0 ,100) +
+            ylim(0, ymax()) + 
+            theme(plot.title = element_text(size = 20, face = "bold"))
     })
 
 }
