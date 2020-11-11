@@ -9,11 +9,11 @@
 
 library(shiny)
 library(tidyverse)
-library(reticulate)
+#library(reticulate)
 library(shinyWidgets)
 library(ggthemes)
 
-source_python('helper.py')
+#source_python('helper.py')
 
 dat <- read.csv('RUL_FD001_Out.csv')
 #buffer <- 3 
@@ -81,8 +81,15 @@ server <- function(input, output) {
     
     not_nready <- reactive({nrow(not_ready())})
     
-    healthyOutlook <- reactive({calc_cum_percentiles(arrange(ready(), futureHealth)$futureHealth, input$percentOrRaw)})
-    
+    #healthyOutlook <- reactive({calc_cum_percentiles(arrange(ready(), futureHealth)$futureHealth, input$percentOrRaw)})
+    healthyOutlook <- reactive({arrange(ready(), futureHealth) %>%
+        group_by(futureHealth) %>%
+        summarise(count = n()) %>%
+        mutate(countTotal = cumsum(count),
+               percent = count/max(countTotal),
+               percentCumulative = countTotal/max(countTotal),
+               percentCumulativeDesc = 1-percentCumulative,
+               numberHealthy = as.double(max(countTotal)-countTotal))})
     #output$debug <- renderText({ymax()})
     output$summary <- renderText({
         nready()
@@ -99,12 +106,14 @@ server <- function(input, output) {
     
     ymax <- reactive({ifelse(input$percentOrRaw, 1, 100)})
     yText <- reactive({ifelse(input$percentOrRaw, "Percent Healthy", "Raw Number Healthy")})
+    yFeat <- reactive({ifelse(input$percentOrRaw, "percentCumulativeDesc", "numberHealthy")})
     output$cumline <- renderPlot({
         ggplot(data = healthyOutlook(), face = "bold") +
-            geom_step(mapping = aes(Days_in_Future, Healthy), size=2) +
+            geom_step(mapping = aes_string("futureHealth", yFeat()), size=2) +
             ggtitle("Additional Squadron Health Projections") +
             xlim(0 ,100) +
             ylim(0, ymax()) + 
+            xlab("Additional Days in Future") +
             ylab(yText()) + 
             theme_economist() + 
             #theme_tufte() + 
@@ -114,8 +123,7 @@ server <- function(input, output) {
                   axis.text.y = element_text(size = 8, face = "bold"),
                   axis.text.x = element_text(size = 8, face = "bold"),
                   axis.line = element_line(colour = "darkblue", 
-                                           size = 1, linetype = "solid"),
-                  panel.margin = unit(0.1, "cm"))
+                                           size = 1, linetype = "solid"))
             
     })
 
