@@ -1,0 +1,98 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+```{r}
+library(tidyverse)
+```
+
+```{r}
+dat <- read.csv('RUL_FD001_Out.csv')
+#head(dat, n=20)
+
+days <- 30
+buffer <- 10
+
+dat <- dat %>%
+  mutate(futureHealth = Predicted - days)
+
+#head(dat)
+
+#rep(buffer,nrow(dat))
+ready <- dat %>%
+          filter(futureHealth >= buffer)
+not_ready <- dat %>%
+          filter(futureHealth < buffer)
+  
+```
+# R Version to Calculate Raw Counts and Cumulative Percentages (previously reverted to helper.py)
+```{r}
+healthyOutlook <- arrange(ready, futureHealth) %>%
+  group_by(futureHealth) %>%
+  summarise(count = n()) %>%
+  mutate(countTotal = cumsum(count),
+         percent = count/max(countTotal),
+         percentCumulative = countTotal/max(countTotal),
+         percentCumulativeDesc = 1-percentCumulative,
+         numberHealthy = as.double(max(countTotal)-countTotal))
+healthyOutlook
+```
+```{r}
+#healthyOutlook$numberHealthy <- as.double(healthyOutlook$numberHealthy)
+glimpse(healthyOutlook)
+
+```
+
+```{r}
+ggplot(data = healthyOutlook) +
+  geom_step(mapping = aes(futureHealth, percentCumulativeDesc))
+```
+```{r}
+ggplot(data = healthyOutlook) +
+  geom_step(mapping = aes(futureHealth, numberHealthy))
+```
+
+```{r}
+ggplot(data = dat, aes(x = futureHealth)) + 
+        geom_histogram(aes(x = cumsum(futureHealth)), binwidth = 1, boundary = 0,
+                       color = "black", fill = "white")
+```
+
+```{r}
+library(raster)
+
+png("image.png", width = 800, height = 600)
+r <- matrix(rnorm(100,0,1),nrow=10, ncol=10)
+plot(raster(r))
+dev.off()
+```
+
+```{r}
+x_click <- 115.636390114526
+right <- 371
+bottom <- 325
+top <- 58.9
+left <- 105
+x_range <- right - left
+y_range <- bottom - top
+x_steps <- x_range / 10
+y_steps <- y_range
+ceiling((x_click - left) / x_steps)
+
+```
+
+```{r}
+head(dat)
+library(dplyr)
+dat <- dat %>%
+  mutate(X = 1:length(dat))
+temp <- dat %>%
+          filter(X ==1)
+temp$Predicted
+head(temp)
+```
+
